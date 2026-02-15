@@ -1,0 +1,13 @@
+[book]
+title = "Echoprice Ultimate Pingaz"
+authors = ["EchoPrice"]
+description = " A practice course syllabus" 
+language = "en"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://gitub.com/ghostrak/mdbook-test.git"
